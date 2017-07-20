@@ -13,5 +13,8 @@
     "psr-4": {
       "Micro\\Cli\\": "src/"
     }
+  },
+  "require": {
+    "linpax/microphp-base": "dev-master"
   }
 }
