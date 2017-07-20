@@ -13,7 +13,7 @@ use Micro\Base\Kernel;
 /**
  * Class Application
  *
- * @package Micro\Web
+ * @package Micro\Cli
  */
 class Application implements \Micro\Base\Application
 {
